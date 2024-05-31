@@ -21,5 +21,7 @@ Este projeto utiliza Inteligência Artificial Generativa para criar um vídeo co
 ## 🚀 Resultados
 O resultado é um vídeo onde o avatar digital transmite a mensagem de forma convincente e realista. A combinação das tecnologias usadas permitiu criar um conteúdo que desafia a percepção do espectador sobre a autenticidade e a naturalidade de avatares gerados por IA.
 
+[LINK DO VÍDEO AQUI](https://www.linkedin.com/posts/augustczar_labdionattyornot-ai-artificialintelligence-activity-7202381798713049088-PFE9?utm_source=share&utm_medium=member_desktop)
+
 ## 💭 Reflexão
 Este projeto destaca os avanços e os desafios na criação de conteúdos digitais realistas com IA. A capacidade de gerar avatares convincentes abre novas possibilidades em várias áreas, mas também levanta questões éticas sobre a autenticidade e o impacto dessas tecnologias na sociedade.
