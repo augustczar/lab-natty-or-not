@@ -1,51 +1,25 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# AI-Generated Avatar Video Project
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto utiliza Inteligência Artificial Generativa para criar um vídeo com um avatar digital que transmite a mensagem "Eu sou humana. E você do outro lado é?". O objetivo é explorar os desafios e as capacidades da tecnologia de IA em produzir conteúdo que pareça natural e humano.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- [Lexica.art](https://lexica.art/): Para encontrar imagens criadas a partir de prompts de texto usando o Stable Diffusion (SD).
+- [Remove.bg](https://www.remove.bg/pt-br): Para remover automaticamente o fundo das fotos e destacar pessoas.
+- [Creative Reality™ Studio da D-ID](https://studio.d-id.com/): Para produzir vídeos com pessoas digitais, utilizando animação facial por aprendizado profundo, geração de texto baseada em LLM e recursos de texto para imagem.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Pesquisa de Imagens:**
+   - Utilizei o [Lexica.art](https://lexica.art/) para buscar e encontrar imagens apropriadas para o avatar. As imagens foram geradas com prompts inseridos por usuários do Stable Diffusion (SD).
+
+2. **Remoção de Fundo:**
+   - As imagens selecionadas foram processadas no [Remove.bg](https://www.remove.bg/pt-br) para remover automaticamente o fundo, destacando o avatar principal a ser utilizado no vídeo.
+
+3. **Criação do Vídeo:**
+   - No [Creative Reality™ Studio da D-ID](https://studio.d-id.com/), combinei as imagens editadas com animação facial gerada por IA e recursos de texto para imagem para criar um vídeo impressionante e realista. A mensagem "Eu sou humana. E você do outro lado é?" foi incorporada ao avatar digital.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado é um vídeo onde o avatar digital transmite a mensagem de forma convincente e realista. A combinação das tecnologias usadas permitiu criar um conteúdo que desafia a percepção do espectador sobre a autenticidade e a naturalidade de avatares gerados por IA.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Este projeto destaca os avanços e os desafios na criação de conteúdos digitais realistas com IA. A capacidade de gerar avatares convincentes abre novas possibilidades em várias áreas, mas também levanta questões éticas sobre a autenticidade e o impacto dessas tecnologias na sociedade.
